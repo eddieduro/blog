@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
- 
-
 
   <div class="post-content">
     <p class="col-md-6">
