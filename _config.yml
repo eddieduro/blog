@@ -9,9 +9,8 @@
 title: Edward Duro | Web Developer Blog
 email: e.jamesduro@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- Follow me on my journey through the vast information of Front End and back end web developement. 
- HTML, CSS, JavaScript, NodeJS, AngularJS, MeteorJS, MEAN Stack - and so much more!
- Freelance front end web developer living in Portland, OR.
+ Follow me on my journey through the vast information of Front End and Back End web developement. 
+ Front end web developer living in Portland, OR.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: e_jamesduro
