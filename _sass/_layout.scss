@@ -2,6 +2,22 @@
  * Site header
  */
 
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: baseline;
+    align-content: center;
+}
+
+.title-background{
+    background-color: #8fbd7a;
+    height: 50px;
+    width: 200px;
+    margin: auto;
+    top: 178px;
+    position: relative;
+}
 
 .full {
     background: url("https://images.unsplash.com/photo-1429032021766-c6a53949594f?crop=entropy&fit=crop&fm=jpg&h=725&ixjsv=2.1.0&ixlib=rb-0.3.5&q=80&w=1275") no-repeat no-repeat;
@@ -13,13 +29,40 @@
 }
 
 .navbar-default {
-    background-color: #d2e1dd !important ;
+    background-color: #aed09f !important ;
+    font-family: 'Lora', serif;
 }
+
+.navbar {
+    margin-bottom: 0px !important;
+}
+
+
+/* navbar text colors */
+
+.nabar-default, .navbar-brand {
+    color: #fff !important;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff !important;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #899 !important;
+}
+/* end */
 
 
 .display-title {
     color: #fff;
-    padding-top: 200px;
+    padding-top: 120px;
+    order: 2;
+    text-align: center;
+    z-index: 1;
+    position: relative;
+    font-family: 'Lora', serif;
+    font-weight: 700;
 }
 
 
@@ -105,7 +148,14 @@
     }
 }
 
+/** Profile Picture **/
 
+.profile-pic{
+ max-width: 30%;
+}
+
+
+/** Profile Pic End **/
 
 /**
  * Site footer
