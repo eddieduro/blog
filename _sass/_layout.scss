@@ -2,6 +2,11 @@
  * Site header
  */
 
+.justified {
+    position:absolute;
+    left:50%;
+}
+
 .flex-container{
     display: flex;
     flex-direction: row;
@@ -9,6 +14,7 @@
     align-items: baseline;
     align-content: center;
 }
+
 
 .title-background{
     background-color: #8fbd7a;
@@ -304,3 +310,10 @@
         }
     }
 }
+/* card */
+#card {
+ width: 100%;
+ height: 100px;
+ background: #000;      
+    }
+
