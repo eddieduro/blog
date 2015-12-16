@@ -316,6 +316,14 @@
     margin-bottom: $spacing-unit;
 }
 
+.post-link {
+    color: #b0cba5 !important;
+}
+
+.post-link:hover {
+    color: #5e844d !important;
+}
+
 .post-title {
     font-size: 42px;
     letter-spacing: -1px;
