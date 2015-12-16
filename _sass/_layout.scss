@@ -276,7 +276,6 @@
 }
 
 
-
 /**
  * Page content
  */
@@ -328,7 +327,7 @@
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
-    margin-bottom: -400px;
+    margin-bottom: -800px;
 
     @include media-query($on-laptop) {
         font-size: 36px;
@@ -337,6 +336,7 @@
 
 .post-content {
     margin-bottom: $spacing-unit;
+    margin-top: 830px !important;
 
     h2 {
         font-size: 32px;
@@ -427,3 +427,4 @@
     top: 510px;
     left: 66px;
 }
+
