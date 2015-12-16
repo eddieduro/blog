@@ -328,6 +328,7 @@
     font-size: 42px;
     letter-spacing: -1px;
     line-height: 1;
+    margin-bottom: -400px;
 
     @include media-query($on-laptop) {
         font-size: 36px;
@@ -364,6 +365,65 @@
 
 /* Work */
 
-#project {
-    display: inline;
+.cursor {
+    cursor: pointer;
+}
+
+#hidden{
+    visibility: hidden;
+}
+
+
+.project-text1{
+    width: 200px;
+    height: 200px;
+    display: block;
+    position: relative;
+    top: 520px;
+    left: 66px;
+}
+
+.project-text2{
+    width: 200px;
+    height: 200px;
+    display: block;
+    position: relative;
+    top: 520px;
+    left: 66px;
+}
+
+.project-text3{
+    width: 200px;
+    height: 200px;
+    display: block;
+    position: relative;
+    top: 520px;
+    left: 66px;
+}
+
+.project-text4{
+    width: 200px;
+    height: 200px;
+    display: block;
+    position: relative;
+    top: 510px;
+    left: 66px;
+}
+
+.project-text5{
+    width: 200px;
+    height: 200px;
+    display: block;
+    position: relative;
+    top: 510px;
+    left: 66px;
+}
+
+.project-text6{
+    width: 200px;
+    height: 200px;
+    display: block;
+    position: relative;
+    top: 510px;
+    left: 66px;
 }
