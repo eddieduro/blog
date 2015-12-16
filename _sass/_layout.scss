@@ -15,6 +15,14 @@
     align-content: center;
 }
 
+.hero-link {
+    color: white !important;
+    text-decoration: none !important;
+}
+
+.hero-link:hover {
+    color: whitesmoke !important;
+}
 
 .title-background{
     background-color: #8fbd7a;
@@ -39,10 +47,13 @@
     font-family: 'Lora', serif;
 }
 
-.navbar {
-    margin-bottom: 0px !important;
+.nav {
+    font-family: 'Lora', serif;
 }
 
+.navbar-nav {
+    border-bottom: 2px solid olive;
+}
 
 /* navbar text colors */
 
@@ -60,13 +71,15 @@
 }
 
 .nav>li>a {
-    color: darkolivegreen;
+    color: olive;
+
 }
 
 .nav>li>a:hover {
     text-decoration: blink;
     background-color: #fff !important;
     color: darkseagreen;
+
 }
 
 /* end */
