@@ -15,4 +15,20 @@ permalink: /work/
 	<a href="#">
 		<img id="project" src="http://placehold.it/200x200">
 	</a>
+
+</div>
+
+<div class="flex-container3">
+	<a href="#">
+		<img id="project" src="http://placehold.it/200x200">
+	</a>
+
+	<a href="#">
+		<img id="project" src="http://placehold.it/200x200">
+	</a>
+
+	<a href="#">
+		<img id="project" src="http://placehold.it/200x200">
+	</a>
+
 </div>
