@@ -34,7 +34,7 @@ permalink: /work/
 
 <div class="flex-container3">
 
-		<img id="project4" class="cursor" src="http://placehold.it/200x200">
+		<img id="project4" class="cursor" src="http://res.cloudinary.com/dzm5dqf0l/image/upload/c_scale,h_200,w_200/v1450344837/project4_zd2ibz.png">
 
 
 
