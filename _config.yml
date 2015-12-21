@@ -9,8 +9,9 @@
 title: Edward Duro | Web Dev Blog
 email: e.jamesduro@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- Follow me on my journey through the vast information of Front End and Back End web developement. 
- Front end web developer living in Portland, OR.
+ I am a Developer currently living in the PNW, specifically Portland, OR. 
+ Web development is my passion - I am always learning and staying up to date on current web trends.
+ Currently available for freelance work. Please feel free to contact me.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://eddieduro.github.io/" # the base hostname & protocol for your site
 twitter_username: e_jamesduro
