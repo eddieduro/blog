@@ -50,75 +50,49 @@
 
   <script type="text/javascript">
 $(document).ready(function(){
-  $("#project1").hover(function(){
-    $(".project-text1").css({
-      visibility:'visible', 
-      color:'white',
-      backgroundColor: 'rgba(0, 0, 0, 0.8)',
-      cursor: 'pointer'
-      });
-    },function(){
-      $(".project-text1").css('visibility','hidden');
+  $('#project1, .project-text1').mouseenter(function(){
+    $('.project-text1').addClass('project-hover').css('visibility', 'visible');
+  }),$('#project1, .project-text1').mouseleave(function(){
+    $('.project-text1').removeClass('project-hover').css('visibility', 'hidden');
+ });
+
+
+  $('#project2, .project-text2').mouseenter(function(){
+    $('.project-text2').addClass('project-hover').css('visibility', 'visible');
   });
+  $('#project2, .project-text2').mouseleave(function(){
+    $('.project-text2').removeClass('project-hover').css('visibility', 'hidden');
+ });
 
-  $("#project2").hover(function(){
-    $(".project-text2").css({
-      visibility:'visible', 
-      color:'white',
-      backgroundColor: 'rgba(0, 0, 0, 0.8)',
-      cursor: 'pointer'
-      });
-    },function(){
-      $(".project-text2").css('visibility','hidden');
-
+  $('#project3, .project-text3').mouseenter(function(){
+    $('.project-text3').addClass('project-hover').css('visibility', 'visible');
   });
+  $('#project3, .project-text3').mouseleave(function(){
+    $('.project-text3').removeClass('project-hover').css('visibility', 'hidden');
+ });
 
-  $("#project3").hover(function(){
-    $(".project-text3").css({
-      visibility:'visible', 
-      color:'white',
-      backgroundColor:'rgba(0, 0, 0, 0.8)',
-      cursor: 'pointer'
-      });
-    },function(){
-      $(".project-text3").css('visibility','hidden');
-
+  $('#project4, .project-text4').mouseenter(function(){
+    $('.project-text4').addClass('project-hover').css('visibility', 'visible');
   });
+  $('#project4, .project-text4').mouseleave(function(){
+    $('.project-text4').removeClass('project-hover').css('visibility', 'hidden');
+ });
 
-  $("#project4").hover(function(){
-    $(".project-text4").css({
-      visibility:'visible', 
-      color:'white',
-      backgroundColor: 'rgba(0, 0, 0, 0.8)',
-      cursor: 'pointer'
-      });
-    },function(){
-      $(".project-text4").css('visibility','hidden');
-
+  $('#project5, .project-text5').mouseenter(function(){
+    $('.project-text5').addClass('project-hover').css('visibility', 'visible');
   });
+  $('#project5, .project-text5').mouseleave(function(){
+    $('.project-text5').removeClass('project-hover').css('visibility', 'hidden');
+ });
 
-  $("#project5").hover(function(){
-    $(".project-text5").css({
-      visibility:'visible', 
-      color:'white',
-      backgroundColor: 'rgba(0, 0, 0, 0.8)',
-      cursor: 'pointer'
-      });
-    },function(){
-      $(".project-text5").css('visibility','hidden');
-
+  $('#project6, .project-text6').mouseenter(function(){
+    $('.project-text6').addClass('project-hover').css('visibility', 'visible');
   });
+  $('#project6, .project-text6').mouseleave(function(){
+    $('.project-text6').removeClass('project-hover').css('visibility', 'hidden');
+ });
 
-  $("#project6").hover(function(){
-    $(".project-text6").css({
-      visibility:'visible', 
-      color:'white',
-      backgroundColor: 'rgba(0, 0, 0, 0.8)',
-      cursor: 'pointer'
-      });
-    },function(){
-      $(".project-text6").css('visibility','hidden');
-  });
+
 
 
 });

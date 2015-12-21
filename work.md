@@ -4,15 +4,15 @@ title: Work
 permalink: /work/
 ---
 <div class="flex-container2">
-	<div class="project-text1" id="hidden"><p class="project-link text-center"><a href="http://eddieduro.github.io/eddieduro-portfolio-2/" alt="Eddie Duro portfolio mock up 2" id="eddie" class="white-text divlink">View</a></p></div>
-	<div class="project-text2" id="hidden"><p class="project-link2 text-center"><a href="" class="white-text">View</a></p></div>
-	<div class="project-text3" id="hidden"><p class="project-link3 text-center"><a href="" class="white-text">View</a></p></div>	
+	<div class="project-text1 project-hover" id="hidden"><p class="project-link text-center " ><a href="http://eddieduro.github.io/eddieduro-portfolio-2/" alt="Eddie Duro portfolio mock up 2" id="eddie" class="white-text divlink">View</a></p></div>
+	<div class="project-text2 project-hover" id="hidden"><p class="project-link2 text-center"><a href="" class="white-text">View</a></p></div>
+	<div class="project-text3 project-hover" id="hidden"><p class="project-link3 text-center"><a href="" class="white-text">View</a></p></div>	
 </div>
 
 <div class="flex-container3">
-	<div class="project-text4" id="hidden"><p class="project-link4 text-center"><a href="#" class="white-text">View</a></p></div>	
-	<div class="project-text5" id="hidden"><p class="project-link5 text-center"><a href="" class="white-text">View</a></p></div>	
-	<div class="project-text6" id="hidden"><p class="project-link6 text-center"><a href="" class="white-text">View</a></p></div>		
+	<div class="project-text4 project-hover" id="hidden"><p class="project-link4 text-center"><a href="#" class="white-text">View</a></p></div>	
+	<div class="project-text5 project-hover" id="hidden"><p class="project-link5 text-center"><a href="" class="white-text">View</a></p></div>	
+	<div class="project-text6 project-hover" id="hidden"><p class="project-link6 text-center"><a href="" class="white-text">View</a></p></div>		
 </div>
 
 <div class="flex-container2">
